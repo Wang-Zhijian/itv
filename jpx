@@ -6,7 +6,9 @@ kafka的原理，kafka的幂等确认机制
 kafka的分区
 jvm调优，garbage collect算法
 k8s原理
+docker是怎么保证隔离性的
 TCC的原理
+Try是怎么保证幂等的
 java 11 17 21的新特性
 java 17多出来什么东西
 怎么保证缓存一致性
