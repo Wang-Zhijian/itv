@@ -3,6 +3,7 @@ redis的pub/sub机制
 redis怎么防止推送消息丢失
 redis的哈希怎么做的，数据结构是啥
 kafka的原理，kafka的幂等确认机制
+kafka的分区
 jvm调优，garbage collect算法
 k8s原理
 TCC的原理
